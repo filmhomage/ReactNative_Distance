@@ -22,6 +22,10 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
+# Yarn
+node_modules/
+yarn.lock
+
 # Android/IntelliJ
 #
 build/
